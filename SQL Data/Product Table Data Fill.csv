@@ -1,0 +1,16 @@
+"InternalKey";"SerialNumber";"Category";"Name";"Provider";"Cost";"Price";"Profit";"QuantitySold"
+1;"141414";"Grocery";"Candy Bar Test";"Test Store";0.5;1.0;0.5;0
+2;"252525";"Household Supply";"Dish Soap Test";"Test Store";1.4;2.99;1.59;0
+3;"363636";"Beer";"Beer Test";"Test Store";0.9;1.36;0.46;0
+4;"474747";"Liquor";"Liquor Test";"Test Store";8.99;10.99;2;0
+5;"585858";"Cigar";"Cigar Test";"Test Store";6.0;8.0;2;0
+6;"696969";"Cigarette";"Cigarette Test";"Test Store";13.0;15.0;2;0
+7;"409910010307";"Grocery";"Peanut Delight Crunchy";"Aldi";1.59;2.49;0.9;0
+8;"076406021802";"Grocery";"Jumex Mango Nectar";"Sams Club";0.43;0.67;0.24;0
+9;"083046000135";"Grocery";"Ice Mountain 16oz";"Sams Club";0.1;1.0;0.9;0
+10;"083046453375";"Grocery";"Ice Mountain 23oz";"Sams Club";0.1;1.0;0.9;0
+11;"041420821745";"Grocery";"Now and Later Extreme Sour Apple";"Universal Import";0.05;0.25;0.2;0
+12;"603390023453";"Household Supply";"Uvex Clear Lens Cleaner";"Deerborn";4.39;6.99;2.6;0
+13;"043100062080";"Household Supply";"Five Star 5 Subject College Ruled Notebook";"Deerborn";4.0;7.99;3.99;0
+14;"019200793292";"Household Supply";"Lysol Disinfectant Spray";"Sams Club";2.46;4.99;2.53;0
+15;"071503201928";"Household Supply";"Purell Advanced Hand Sanitizer";"Deerborn";2.49;4.99;2.5;0

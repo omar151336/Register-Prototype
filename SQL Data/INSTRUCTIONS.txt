@@ -1,0 +1,8 @@
+Run SQL server using "mysqld.exe" in $MySQL_Server_Directory$\bin
+
+Connect to server using MySQL Workbench
+Create Employee table using "Employee Table Creation.sql"
+	Then using table data import wizard import data from "Employee Table Data Fill.csv"
+Create Product table using "Product Table Creation.sql"
+	Then using table data import wizard import data from "Product Table Data Fill.csv"
+		Uncheck Profit column if import error occurs
